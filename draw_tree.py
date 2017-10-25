@@ -18,5 +18,6 @@ color("green")
 left(90)
 backward(150)
 tree(120)
+print("hello")
 
 input('type to exit')
