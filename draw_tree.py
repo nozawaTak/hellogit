@@ -20,5 +20,6 @@ backward(150)
 tree(120)
 print("hello")
 print("testbranch")
+print("hey!")
 
 input('type to exit')
