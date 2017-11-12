@@ -21,6 +21,11 @@ tree(120)
 print("hello")
 print("testbranch")
 print("hey!")
+<<<<<<< HEAD
+
+=======
+print("baaa")
+>>>>>>> 0993a450ca0c0276890b2b71fa31cd918d575021
 print("agaa")
 
 input('type to exit')
