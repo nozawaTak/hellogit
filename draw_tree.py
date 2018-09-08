@@ -3,6 +3,8 @@
 
 import turtle
 
+import numpy
+
 def tree(length):
 	if length > 5:
 		turtle.forward(length)
@@ -26,4 +28,4 @@ print("baaa")
 
 print("agaa")
 
-input('type to exit')
+print ("hihihi")
